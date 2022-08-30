@@ -1,0 +1,13 @@
+.Head{
+    height: 15vh;
+    width: 100%;
+}
+.first{
+    float: left;
+    height: 7vh;
+}
+.second{
+    float: right;
+    margin-right: 20px;
+    margin-top: 5px;
+}

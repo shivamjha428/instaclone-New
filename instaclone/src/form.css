@@ -1,0 +1,26 @@
+.nav{
+    height: 55px;
+    border: 1px solid black;
+}
+form{
+    display: inline-block;
+    margin-left: 35%;
+    margin-top: 10%;
+    padding: 3%;
+    border: 1px solid gray;
+}
+.right{
+    float: right;
+}
+.second{
+    width: 98%;
+}
+.btn{
+    margin-left: 45%;
+    margin-top: 20px;
+}
+p{
+    color: red;
+    text-align: center;
+    font-size: 30px;
+}
